@@ -11,10 +11,15 @@
 ​🛠 Prerequisites
   
 ​To get this look, ensure you have the following installed:
+
 ​WM: Niri
+
 ​Terminal: Kitty
+
 ​System Monitor: Btop
+
 ​Fonts: Nerd Fonts (Required for icons)
+
 ​Status Bar/Fetch: Waybar, Fastfetch
 
 ​🚀 Installation
@@ -28,6 +33,7 @@ Restart Niri or log out and log back in to apply changes.
 📱Social
 
 ​TikTok: m7md_linux
+
 ​Instagram: m7md_linux
 
 ​⚖️ License
