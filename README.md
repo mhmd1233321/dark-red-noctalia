@@ -4,7 +4,8 @@
   
 ​📸 Preview
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f259de8-f9b6-4e63-a40d-2264198f37b3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94c3cfaf-2627-4d01-8819-5be81dbd2c97" />
+
 
 
 ​🛠 Prerequisites
