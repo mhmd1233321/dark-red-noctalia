@@ -4,7 +4,8 @@
   
 ​📸 Preview
 
-​(هون ضيف صورة الـ Rice تبعتك - بتقدر ترفع الصورة على GitHub وتنسخ الرابط تبعها هون)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f259de8-f9b6-4e63-a40d-2264198f37b3" />
+
 
 ​🛠 Prerequisites
   
